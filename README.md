@@ -108,7 +108,7 @@ Skill orizzontali: separazione di mercati, modello di comunicazione brewer and n
 
 - Uso di azure databricks, pyspark notebooks, power bi, dax;
 
-- Porting di notebook locali su infrastruttura azure, intuizione del funzionamento di processi hr e di analisi personale people;
+- Porting di notebook locali su infrastruttura azure, intuizione del funzionamento di processi hr e di analisi personale;
 
 
 
