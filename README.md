@@ -17,7 +17,7 @@ Logs and e-mails were introduced to monitor executions and metrics.
     
 The solution expected results include: reduced enrichment time, reduced human error, enhanced operators productivity, and support for legal action decisions. However, we designed no quantitative kpi to highlight the process improvements.
 
-Hard skill: athena, sql, git, zeep, xmltojson, networkx, cython, setuptools, simple email service, cloudwatch;
+Hard skill: athena, sql, git, zeep, xmltojson, networkx, jsonpointer, cython, setuptools, simple email service, cloudwatch;
 
 Soft skill: creativity, detail and goal orientation, determination, focus, speed, independence, reflection, team-work beginner, information handling beginner.
 
@@ -70,7 +70,7 @@ Inoltre, sono stati introdotti log e metriche per monitorare le esecuzioni.
 
 I risultati attesi dalla soluzione includono: tempi di arricchimento ed errore umano ridotti, migliore produttività degli operatori e supporto per decisioni in merito ad azionabilità legale. Tuttavia non sono stati definiti kpi quantitativi per valutare i miglioramenti dello stream progettuale.
 
-Skill verticali: athena, sql, git, zeep, xmltojson, networkx, cython, setuptools, simple email service, cloudwatch;
+Skill verticali: athena, sql, git, zeep, xmltojson, networkx, jsonpointer, cython, setuptools, simple email service, cloudwatch;
 
 Skill orizzontali: creatività, orientamento a dettaglio e gol, determinazione, concentrazione, velocità, indipendenza, riflessività, principio di lavoro di squadra e gestione informativa.
 
