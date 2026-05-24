@@ -71,7 +71,7 @@ Inoltre, sono stati introdotti log e metriche per monitorare le esecuzioni.
 I risultati attesi dalla soluzione includono: tempi di arricchimento ed errore umano ridotti, migliore produttività degli operatori e supporto per decisioni in merito ad azionabilità legale. Tuttavia non sono stati definiti kpi quantitativi per valutare i miglioramenti dello stream progettuale.
 
 Skill verticali: athena, sql, git, zeep, xmltojson, networkx, jsonpointer, cython, setuptools, simple email service, cloudwatch;
-
+ 
 Skill orizzontali: creatività, orientamento a dettaglio e gol, determinazione, concentrazione, velocità, indipendenza, riflessività, principio di lavoro di squadra e gestione informativa.
 
 ### CreMA Scoring
