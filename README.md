@@ -17,7 +17,7 @@ Logs and e-mails were introduced to monitor executions and metrics.
     
 The solution expected results include: reduced enrichment time, reduced human error, enhanced operators productivity, and support for legal action decisions. However, we designed no quantitative kpi to highlight the process improvements.
 
-Hard skill: athena, sql, git, zeep, xmltojson, networkx, jsonpointer, cython, setuptools, simple email service, cloudwatch;
+Hard skill: athena, sql, git, zeep, xmltojson, networkx, jsonpointer, cython, fernet, setuptools, simple email service, cloudwatch;
 
 Soft skill: creativity, detail and goal orientation, determination, focus, speed, independence, reflection, team-work beginner, information handling beginner.
 
@@ -36,7 +36,7 @@ The solution strategy involved:
     
 The solution expected results include: reduced deployment time thanks to pipelines abstraction, and easiness of usage by the team working on model updates via sagemaker.
 
-Hard skill: python, aws, triggers, events, schedules, quicksight, pandas, code-commit, sagemaker.
+Hard skill: python, aws, triggers, events, schedules, quicksight, pandas, code-commit, sagemaker, wsl.
 
 ### Single-deal APIs for insurance and business customers
 
@@ -45,7 +45,7 @@ Two more project streams involved the development of single-deal API in order to
 To do so, models were dynamically loaded in case of need and an input, intermediate, output and enrichment history was hold for sake of traceability.
 The intermediate and output results were analysed in the UAT stage to validate model performances.
 
-Hard skill: pymee, pydantic, pickle, logger, log stream, stochastic finite state machine architecture;
+Hard skill: pymee, pydantic, pickle, logger, log stream, postman, stochastic finite state machine architecture;
 
 Soft skill: market separation, brewer and nash model in communications, logs and storage.
 
@@ -70,7 +70,7 @@ Inoltre, sono stati introdotti log e metriche per monitorare le esecuzioni.
 
 I risultati attesi dalla soluzione includono: tempi di arricchimento ed errore umano ridotti, migliore produttività degli operatori e supporto per decisioni in merito ad azionabilità legale. Tuttavia non sono stati definiti kpi quantitativi per valutare i miglioramenti dello stream progettuale.
 
-Skill verticali: athena, sql, git, zeep, xmltojson, networkx, jsonpointer, cython, setuptools, simple email service, cloudwatch;
+Skill verticali: athena, sql, git, zeep, xmltojson, networkx, jsonpointer, cython, fernet, setuptools, simple email service, cloudwatch;
 
 Skill orizzontali: creatività, orientamento a dettaglio e gol, determinazione, concentrazione, velocità, indipendenza, riflessività, principio di lavoro di squadra e gestione informativa.
 
@@ -91,7 +91,7 @@ La strategia risolutiva prevedeva:
 
 I risultati attesi della soluzione includono: riduzione del tempo di deployment e semplicità di utilizzo da parte del team che lavora su aggiornamenti di modello tramite sagemaker.
 
-Hard skill: python, aws, triggers, events, schedules, quicksight, pandas, code-commit, sagemaker.
+Hard skill: python, aws, triggers, events, schedules, quicksight, pandas, code-commit, sagemaker, wsl.
 
 ### API single-deal per clienti assicurativi e business
 
@@ -100,7 +100,7 @@ Un paio di ulteriori stream progettuali riguardavano lo sviluppo di API single-d
 Per farlo, i modelli erano caricati dinamicamente al bisogno e si teneva storico di informazioni d'ingresso, intermedie, d'arricchimento e d'uscita a fini di tracciabilità.
 I risultati intermedi e d'uscita sono stati analizzati in fase di UAT per validare le performance di modello.
 
-Skill verticali: pymee, pydantic, pickle, logger, log stream, architettura macchina a stati finiti stocastica;
+Skill verticali: pymee, pydantic, pickle, logger, log stream, postman, architettura macchina a stati finiti stocastica;
 
 Skill orizzontali: separazione di mercati, modello di comunicazione brewer and nash, monitoraggio e mantenimento logs.
 
