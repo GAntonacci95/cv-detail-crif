@@ -27,7 +27,7 @@ The batch project aimed at building a produzionalization AWS architecture for th
 
 The architecture was customized based on markets and customers dimensions.
 What is more, the challenge involved the development of a
-custom framework fitting the MLOops (CL-CI-CD) practices in order to automatize processes (see prediction, validation, back-testing), and leading the autonomy of data scientists towards a more structured coding approach.
+custom framework fitting the MLOps (CL-CI-CD) practices in order to automatize processes (see prediction, validation, back-testing), and leading the autonomy of data scientists towards a more structured coding approach.
 
 The solution strategy involved:
 - File transfer interfaces: customer files were exchanged either via s3 staging area or asynchronously via SFTP;
