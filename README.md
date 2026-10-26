@@ -27,7 +27,7 @@ The batch project aimed at building a produzionalization AWS architecture for th
 
 The architecture was customized based on markets and customers dimensions.
 What is more, the challenge involved the development of a
-custom framework fitting the MLOps (CL-CI-CD) practices in order to automatize processes (see prediction, validation, back-testing), and leading the autonomy of data scientists towards a more structured coding approach.
+custom framework to lead the autonomy of data scientists towards a more structured coding approach.
 
 The solution strategy involved:
 - File transfer interfaces: customer files were exchanged either via s3 staging area or asynchronously via SFTP;
@@ -80,7 +80,7 @@ Skill orizzontali: creatività, orientamento a dettaglio e gol, determinazione, 
 Progetto batch che mirava alla costruzione di un'architettura AWS per emulare la messa in produzione di modelli di machine learning per lo scoring e la visualizzazione di portafogli di credito.
 
 L'architettura era personalizzata dipendentemente dalle dimensioni mercato e cliente.
-Inoltre, la sfida prevedeva lo sviluppo di un framework custom che aderisse a principi di MLOps (CL-CI-CD) al fine di automatizzare processi (quali predizione, validazione, back-testing) e di guidare l'autonomia dei data scientists verso un approccio di sviluppo più strutturato.
+Inoltre, la sfida prevedeva lo sviluppo di un framework custom per guidare l'autonomia dei data scientists verso un approccio di sviluppo più strutturato.
 
 La strategia risolutiva prevedeva:
 - Interfacce di trasferimento file: i file clienti erano scambiati tramite area di stageing s3 od in modo asincrono via SFTP;
