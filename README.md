@@ -46,9 +46,9 @@ Two more project streams involved the development of single-deal API in order to
 To do so, models were dynamically loaded in case of need and an input, intermediate, output and enrichment history was hold for sake of traceability.
 The intermediate and output results were analysed in the UAT stage to validate model performances.
 
-Hard skill: pymee, pydantic, pickle, logger, log stream, postman, probabilistic finite state machine architecture, distributed stochastic processes and networks;
+Hard skill: pymee, pydantic, pickle, logger, log stream, postman, probabilistic finite state machine architecture;
 
-Soft skill: market separation, brewer and nash model in communications, log monitoring.
+Soft skill: market separation, brewer and nash model in communications, log monitoring, distributed stochastic processes and networks.
 
 ### Other less significant projects
 
@@ -99,9 +99,9 @@ Un paio di ulteriori stream progettuali riguardavano lo sviluppo di API single-d
 Per farlo, i modelli erano caricati dinamicamente al bisogno e si teneva storico di informazioni d'ingresso, intermedie, d'arricchimento e d'uscita a fini di tracciabilità.
 I risultati intermedi e d'uscita sono stati analizzati in fase di UAT per validare le performance di modello.
 
-Skill verticali: pymee, pydantic, pickle, logger, log stream, postman, architettura macchina probabilistica a stati finiti, processi stocastici e reti distribuite;
+Skill verticali: pymee, pydantic, pickle, logger, log stream, postman, architettura macchina probabilistica a stati finiti;
 
-Skill orizzontali: separazione di mercati, modello di comunicazione brewer and nash, monitoraggio log.
+Skill orizzontali: separazione di mercati, modello di comunicazione brewer and nash, monitoraggio log, processi stocastici e reti distribuite.
 
 ### Altri progetti meno significativi
 
