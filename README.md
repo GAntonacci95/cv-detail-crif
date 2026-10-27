@@ -5,7 +5,7 @@
 ### CreMA for LegalTech
 
 The batch project aimed at building a state machine to produce a final json
-including enrichment data coming from external providers (business information, financial statement,
+including enrichment data coming from external providers (business information and intelligence, financial statement,
 people diligence and investigation, real estate information, GenAI language model APIs), and model forecasts related to risk over credit portfolios.
 
 The solution strategy involved:
@@ -60,7 +60,7 @@ Soft skill: market separation, brewer and nash model in communications, log moni
 
 ### CreMA per LegalTech
 
-Progetto batch che mirava alla costruzione di una macchina a stati per produrre un json contenente dati di arricchimento provenienti da diversi provider esterni (informazioni di business, dati di bilancio, diligence e rintracci, informazioni mobiliari ed immobiliari, GenAI, API verso LLM) e previsioni di modelli relativi al rischio su portafogli di credito.
+Progetto batch che mirava alla costruzione di una macchina a stati per produrre un json contenente dati di arricchimento provenienti da diversi provider esterni (informazioni business ed intelligence, dati di bilancio, diligence e rintracci, informazioni mobiliari ed immobiliari, GenAI, API verso LLM) e previsioni di modelli relativi al rischio su portafogli di credito.
 
 La strategia risolutiva incorporava:
 - Interfacce di trasferimento file: i file clienti erano scambiati tramite area di stageing s3 od in modo asincrono via SFTP;
