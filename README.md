@@ -19,7 +19,7 @@ The solution expected results include: reduced enrichment time, reduced human er
 
 Hard skill: athena, sql, git, zeep, xmltojson, pyyaml, networkx, jsonpointer, cython, fernet, setuptools, simple email service, cloudwatch;
 
-Soft skill: creativity, detail and goal orientation, determination, focus, speed, independence, reflection, team-work beginner, information handling beginner.
+Soft skill: creativity, detail and goal orientation, determination, focus, speed, independence, reflection, team-work beginner, information management beginner.
 
 ### CreMA Scoring
 
