@@ -13,8 +13,8 @@ The solution strategy involved:
 - Data and artifact stack: data was stored into s3 datalakes as partitioned parquets including timestamps to create a history, the data loaded from the database followed an ETL pipeline and exploited schemas and a data lineage strategy;
 - Infrastructure stack: the application run through flow automated and orchestrated lambda functions;
 - Software stack: the lambdas dynamically loaded wheels, packages, and layers designed for independence and modularity to grant quality, usability and maintainability.
-Logs and e-mails were introduced to monitor executions and metrics.
-    
+- Output interfaces and monitoring: beyond output files, including the final json, logs and e-mails were introduced to monitor executions and metrics. Indeed, such logs were queried via cloudwatch, and an almost dynamic processes states visualization was provided through quicksight.
+
 The solution expected results include: reduced enrichment time, reduced human error, enhanced operators productivity, and support for legal action decisions. However, we designed no quantitative kpi to highlight the process improvements.
 
 Hard skill: athena, sql, git, zeep, xmltojson, pyyaml, networkx, jsonpointer, cython, fernet, setuptools, simple email service, cloudwatch;
@@ -34,6 +34,7 @@ The solution strategy involved:
 - Data and artifact stack: data was stored into s3 datalakes as partitioned parquets including timestamps to create a history;
 - Infrastructure stack: the application run in a docker image tagged into ECR and loaded by a step-function. The step-function delt with the flow and dynamically loaded an always up-to-date code-commit repository;
 - Software stack: the pipelines were built upon abstraction to meet client and market dimensions, so to have a custom execution depending on incoming data.
+- Output interfaces and monitoring: beyond output files, customer specific views were introduced for sake of business-oriented presentations.
     
 The solution expected results include: reduced deployment time thanks to pipelines abstraction, and easiness of usage by the team working on model updates via sagemaker.
 
@@ -67,7 +68,7 @@ La strategia risolutiva incorporava:
 - Stack dati ed artefatti: i dati erano salvati in datalake s3 come parquet partizionati ed includevano timestamp per creare uno storico. Il caricamento dati da database seguiva una pipeline ETL, sfruttava schemi ed utilizzava una strategia di lineage;
 - Stack infrastrutturale: l'applicazione eseguiva tramite un flusso di lambda function automatizzato tramite un orchestratore;
 - Stack applicativo: le lambda caricavano dinamicamente wheels, pacchetti e layer progettati per indipendenza e modularità al fine di garantire qualità, usabilità e manutenibilità.
-Inoltre, sono stati introdotti log e metriche per monitorare le esecuzioni.
+- Interfacce d'uscita e monitoraggio: oltre ai file di uscita, che includevano il json finale, sono stati introdotti logs ed e-mails per il monitoraggio di esecuzione e metriche. Tali log venivano interrogati via cloudwatch e permettevano una visualizzazione quicksight quasi dinamica degli stati dei processi.
 
 I risultati attesi dalla soluzione includono: tempi di arricchimento ed errore umano ridotti, migliore produttività degli operatori e supporto per decisioni in merito ad azionabilità legale. Tuttavia non sono stati definiti kpi quantitativi per valutare i miglioramenti dello stream progettuale.
 
@@ -86,7 +87,8 @@ La strategia risolutiva prevedeva:
 - Interfacce di trasferimento file: i file clienti erano scambiati tramite area di stageing s3 od in modo asincrono via SFTP;
 - Stack dati ed artefatti: i dati erano salvati in datalake s3 come parquet partizionati per creare uno storico;
 - Stack infrastrutturale: l'applicazione eseguiva in una docker image taggata in ECR. Questa era caricata da una step function che si occupava della gestione del flusso d'esecuzione e del caricamento dinamico di codice da una repository code-commit sempre aggiornata;
-- Stack applicativo: le pipeline per mercato e cliente erano costruite implementando astrazioni in modo da garantire un'esecuzione personalizzata dipendenemente dai dati in arrivo.
+- Stack applicativo: le pipeline per mercato e cliente erano costruite implementando astrazioni in modo da garantire un'esecuzione personalizzata dipendenemente dai dati in arrivo;
+- Interfacce d'uscita e monitoraggio: oltre ai file di uscita, sono state introdotte visualizzazioni specifiche per cliente al fine di facilitare le presentazioni orientate al business.
 
 I risultati attesi della soluzione includono: riduzione del tempo di deployment e semplicità di utilizzo da parte del team che lavora su aggiornamenti di modello tramite sagemaker.
 
