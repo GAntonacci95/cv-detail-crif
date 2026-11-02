@@ -5,7 +5,7 @@
 ### CreMA for LegalTech
 
 The batch project aimed at building a state machine to produce a final json
-including enrichment data coming from external providers (business information and intelligence, financial statement,
+including enrichment data coming from external providers (business information, financial statement,
 people diligence and investigation, real estate information, GenAI language model APIs), and model forecasts related to risk over credit portfolios.
 
 The solution strategy involved:
