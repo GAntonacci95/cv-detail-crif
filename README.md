@@ -1,6 +1,6 @@
-# cv-detail-crif (2022 - 2025)
+# cv-detail-crif
 
-## EN 🇬🇧
+## EN 🇬🇧 (jul 2022 - jul 2025)
 
 ### CreMA for LegalTech
 
@@ -57,7 +57,7 @@ Soft skill: market separation, brewer and nash model in communications, log moni
 - Porting of local notebooks on azure infrastructure, intuition of hr processes and people analytics;
 
 
-## IT 🇮🇹
+## IT 🇮🇹 (lug 2022 - lug 2025)
 
 ### CreMA per LegalTech
 
