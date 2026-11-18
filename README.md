@@ -21,7 +21,7 @@ Hard skill: athena, sql, git, zeep, xmltojson, pyyaml, networkx, jsonpointer, cy
 
 Soft skill: creativity, detail and goal orientation, determination, focus, speed, independence, reflection, team-work beginner, information management beginner.
 
-references: Alessandro Boaro (a.boaro@crif.com)
+references: Sr. Manager Alessandro Boaro (a.boaro@crif.com)
 
 ### CreMA Scoring
 
@@ -42,7 +42,7 @@ The solution expected results include: reduced deployment time thanks to pipelin
 
 Hard skill: python, aws, triggers, events, schedules, quicksight, pandas, code-commit, sagemaker, wsl.
 
-references: Alessandro Boaro (a.boaro@crif.com)
+references: Sr. Manager Alessandro Boaro (a.boaro@crif.com)
 
 ### Single-deal APIs for credit insurance and business customers
 
@@ -55,7 +55,7 @@ Hard skill: pymee, pydantic, pickle, logger, log stream, postman, probabilistic 
 
 Soft skill: market separation, brewer and nash model in communications, log monitoring, distributed stochastic processes and networks.
 
-references: Alessandro Boaro (a.boaro@crif.com), Francesco Imbriglia (f.imbriglia@crif.com)
+references: Sr. Manager Alessandro Boaro (a.boaro@crif.com), Sr. Manager Francesco Imbriglia (f.imbriglia@crif.com)
 
 ### Other less significant projects
 
@@ -82,7 +82,7 @@ Skill verticali: athena, sql, git, zeep, xmltojson, pyyaml, networkx, jsonpointe
 
 Skill orizzontali: creatività, orientamento a dettaglio e gol, determinazione, concentrazione, velocità, indipendenza, riflessività, principio di lavoro di squadra e gestione informativa.
 
-referenze: Alessandro Boaro (a.boaro@crif.com)
+referenze: Sr. Manager Alessandro Boaro (a.boaro@crif.com)
 
 ### CreMA Scoring
 
@@ -102,7 +102,7 @@ I risultati attesi della soluzione includono: riduzione del tempo di deployment 
 
 Hard skill: python, aws, triggers, events, schedules, quicksight, pandas, code-commit, sagemaker, wsl.
 
-referenze: Alessandro Boaro (a.boaro@crif.com)
+referenze: Sr. Manager Alessandro Boaro (a.boaro@crif.com)
 
 ### API single-deal per clienti assicurazione credito e business
 
@@ -115,7 +115,7 @@ Skill verticali: pymee, pydantic, pickle, logger, log stream, postman, architett
 
 Skill orizzontali: separazione di mercati, modello di comunicazione brewer and nash, monitoraggio log, processi stocastici e reti distribuite.
 
-referenze: Alessandro Boaro (a.boaro@crif.com), Francesco Imbriglia (f.imbriglia@crif.com)
+referenze: Sr. Manager Alessandro Boaro (a.boaro@crif.com), Sr. Manager Francesco Imbriglia (f.imbriglia@crif.com)
 
 ### Altri progetti meno significativi
 
