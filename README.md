@@ -21,6 +21,8 @@ Hard skill: athena, sql, git, zeep, xmltojson, pyyaml, networkx, jsonpointer, cy
 
 Soft skill: creativity, detail and goal orientation, determination, focus, speed, independence, reflection, team-work beginner, information management beginner.
 
+references: Alessandro Boaro (a.boaro@crif.com)
+
 ### CreMA Scoring
 
 The batch project aimed at building a produzionalization AWS architecture for the scoring and visualization of batch portfolios using machine learning models.
@@ -40,6 +42,8 @@ The solution expected results include: reduced deployment time thanks to pipelin
 
 Hard skill: python, aws, triggers, events, schedules, quicksight, pandas, code-commit, sagemaker, wsl.
 
+references: Alessandro Boaro (a.boaro@crif.com)
+
 ### Single-deal APIs for credit insurance and business customers
 
 Two more project streams involved the development of single-deal API in order to provide risk scores of credit portfolio entries with the guarantee of the ACID property.
@@ -50,6 +54,8 @@ The intermediate and output results were analysed in the UAT stage to validate m
 Hard skill: pymee, pydantic, pickle, logger, log stream, postman, probabilistic finite state machine architecture;
 
 Soft skill: market separation, brewer and nash model in communications, log monitoring, distributed stochastic processes and networks.
+
+references: Alessandro Boaro (a.boaro@crif.com), Francesco Imbriglia (f.imbriglia@crif.com)
 
 ### Other less significant projects
 
@@ -76,6 +82,8 @@ Skill verticali: athena, sql, git, zeep, xmltojson, pyyaml, networkx, jsonpointe
 
 Skill orizzontali: creatività, orientamento a dettaglio e gol, determinazione, concentrazione, velocità, indipendenza, riflessività, principio di lavoro di squadra e gestione informativa.
 
+referenze: Alessandro Boaro (a.boaro@crif.com)
+
 ### CreMA Scoring
 
 Progetto batch che mirava alla costruzione di un'architettura AWS per emulare la messa in produzione di modelli di machine learning per lo scoring e la visualizzazione di portafogli di credito.
@@ -94,6 +102,8 @@ I risultati attesi della soluzione includono: riduzione del tempo di deployment 
 
 Hard skill: python, aws, triggers, events, schedules, quicksight, pandas, code-commit, sagemaker, wsl.
 
+referenze: Alessandro Boaro (a.boaro@crif.com)
+
 ### API single-deal per clienti assicurazione credito e business
 
 Un paio di ulteriori stream progettuali riguardavano lo sviluppo di API single-deal per fornire score di rischio credito relativo a portafogli garantendo la proprietà ACID.
@@ -104,6 +114,8 @@ I risultati intermedi e d'uscita sono stati analizzati in fase di UAT per valida
 Skill verticali: pymee, pydantic, pickle, logger, log stream, postman, architettura macchina probabilistica a stati finiti;
 
 Skill orizzontali: separazione di mercati, modello di comunicazione brewer and nash, monitoraggio log, processi stocastici e reti distribuite.
+
+referenze: Alessandro Boaro (a.boaro@crif.com), Francesco Imbriglia (f.imbriglia@crif.com)
 
 ### Altri progetti meno significativi
 
